@@ -3,8 +3,9 @@ name: shenpa-recognition
 description: A practice for identifying the "hook" moment - that urge or tightening that precedes habitual reactivity - and creating space for choice.
 license: MIT
 metadata:
+  version: 1.0.4964
   author: sethmblack
-  version: 1.0.1
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - shenpa-recognition
 - transformation
